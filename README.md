@@ -41,6 +41,6 @@ bin/magento setup:static-content:deploy -f -a adminhtml
 
 Here are some helpful links if you are interested in modifying or extending this theme.
 
-[Create an Admin theme](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/admin_theme_create.html)
+[Magento Dev Docs: Create an Admin theme](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/admin_theme_create.html)
 
-[Apply an Admin theme](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/admin_theme_apply.html)
+[Magento Dev Docs: Apply an Admin theme](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/admin_theme_apply.html)
