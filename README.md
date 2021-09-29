@@ -1,14 +1,16 @@
 # ecomprotight
 Magento Ecompro Tight Admin Theme
-# ecomprotight
-Magento Ecompro Tight Admin Theme
+
 Maintainer: Eric Landmann, eric@ecompro.tech
+
 Created: 10/1/21
 
 Description
+
 This is an alternate admin theme for Magento 2. It has been tested on Community Edition v. 2.3.5-p1. It requires a fully functional Magento 2 installation.
 
 Features
+
 Alternate color scheme – Tired of the same old stock Magento admin theme and colors? This theme uses a green navbar, orange links, light green footer.
 
 Color variables – There is a color reference found in docs/tight_color_names.html that shows the color variable names and their hex values.
