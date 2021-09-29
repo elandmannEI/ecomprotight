@@ -22,6 +22,9 @@ This is an alternate admin theme for Magento 2. It has been tested on Community 
 **Feature or pull requests** are welcome, please open a pull request.
 
 ### Documentation
+
 Relevant documentation links:
+
 [Create an Admin theme] (https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/admin_theme_create.html)
+
 [Apply an Admin theme] (https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/admin_theme_apply.html)
