@@ -24,6 +24,16 @@ This is an alternate admin theme for Magento 2. It has been tested on Community 
 ### Installation
 Download a zip file of the codebase and manually move the code to the folders. In the future there may be a composer install available.
 
+Register the theme by these steps:
+
+```
+rm -rf pub/static/adminhtml/*
+rm -rf var/view_preprocessed/*
+bin/magento cache:clean
+bin/magento setup:upgrade
+bin/magento setup:static-content:deploy -f -a adminhtml
+```
+
 ### Documentation
 
 **Magento admin theme development links**
