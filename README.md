@@ -26,7 +26,7 @@ Download a zip file of the codebase and manually move the code to the folders. I
 
 ### Documentation
 
-Magento admin theme development links:
+**Magento admin theme development links**
 
 Here are some helpful linkns if you are interested in modifying or extending this theme.
 
