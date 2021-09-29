@@ -20,3 +20,8 @@ This is an alternate admin theme for Magento 2. It has been tested on Community 
 **Admin nav** – The spacing on the admin nav columns have been tightened up so sites with many columns in the subnav will be more easily able to see them with scrolling sideways.
 
 **Feature or pull requests** are welcome, please open a pull request.
+
+### Documentation
+Relevant documentation links:
+[Create an Admin theme] (https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/admin_theme_create.html)
+[Apply an Admin theme] (https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/admin_theme_apply.html)
