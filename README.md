@@ -21,9 +21,14 @@ This is an alternate admin theme for Magento 2. It has been tested on Community 
 
 **Feature or pull requests** are welcome, please open a pull request.
 
+### Installation
+Download a zip file of the codebase and manually move the code to the folders. In the future there may be a composer install available.
+
 ### Documentation
 
-Relevant documentation links:
+Magento admin theme development links:
+
+Here are some helpful linkns if you are interested in modifying or extending this theme.
 
 [Create an Admin theme](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/admin_theme_create.html)
 
