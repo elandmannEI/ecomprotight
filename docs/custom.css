@@ -1,0 +1,42 @@
+div.mainpanel {
+/*	width: 990px; */
+/* 	min-width: 990px; */
+}
+
+div.maincontent {
+	min-height: 100%;
+	background-color: #ffffff;
+}
+
+.page-header h1 {
+	font-size: 34px;
+	float: right;
+}
+
+.colorbox {
+	padding: 0px;
+	/* width: 280px; */
+	height: 44px;
+	line-height: 44px;
+	float: left;
+	text-align: center;
+	padding: 0 8px;
+}
+
+p.main {
+	text-align: left;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+.colordisplay {
+	padding-top: 7px;
+	display: block;
+	float: left;
+	}
+
+.footer {
+	padding: 30px;
+	margin-right: 15px;
+	text-align: center;
+}
