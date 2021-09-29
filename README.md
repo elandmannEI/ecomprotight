@@ -15,9 +15,10 @@ This is an alternate admin theme for Magento 2. It has been tested on Community 
 
 **Color variables** – There is a color reference found in docs/tight_color_names.html that shows the color variable names and their hex values.
 
-**Tighter spacing** – There is a lot of wasted page space in the stock Magento admin theme that forces the user to do unnecessary scrolling. The Tight theme tightens up some of that spacing. 
+**Tighter spacing** – The stock Magento admin theme is very airy with a lot of wasted screen space that forces the user to do unnecessary scrolling. The Tight theme tightens up some of that spacing to make it easier for the admin to navigate.
 
-**Admin nav** – The spacing on the admin nav columns have been tightened up so sites with many columns in the subnav will be more easily able to see them with scrolling sideways.
+**Admin nav** – The spacing on the admin nav columns has been tightened up. If subnav has with many columns it will be more easierto see them without
+scrolling sideways.
 
 **Feature or pull requests** are welcome, please open a pull request.
 
