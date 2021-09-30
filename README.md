@@ -17,8 +17,14 @@ This is an alternate admin theme for Magento 2. It has been tested on Community 
 
 **Tighter spacing** – The stock Magento admin theme is very airy with a lot of wasted screen space that forces the user to do unnecessary scrolling. The Tight theme tightens up some of that spacing to make it easier for the admin to navigate.
 
-**Admin nav** – The spacing on the admin nav columns has been tightened up. If subnav has with many columns it will be more easierto see them without
+**Admin nav** – The spacing on the admin nav columns has been tightened up. If a subnav has many columns it will be more easier to see them without
 scrolling sideways.
+
+**Link colors** – Links in the body of the HTML pages and grids have been changed to make them more consistent.
+
+**Alternate admin logo** – You can change the logo on the login screen or the top left of the admin panel.
+
+**Minimal footer** – Links for bug reporting, privacy policy, and account activity have been removed from the footer and the spacing has been reduced
 
 **Feature or pull requests** are welcome, please open a pull request.
 
